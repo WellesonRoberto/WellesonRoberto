@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/WellesonRoberto"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=WellesonRoberto&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="WellesonRoberto github stats" /></a>
+      <a href="https://github.com/WellesonRoberto"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=WellesonRoberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="WellesonRoberto github stats" /></a>
     </td>
   </tr>
 </table>
@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/WellesonRoberto"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellesonRoberto&layout=compact&theme=dark&hide_border=false" /></a>
+      <a href="https://github.com/WellesonRoberto"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellesonRoberto&layout=compact&theme=dracula&hide_border=false" /></a>
     </td>
   </tr>
 </table>
