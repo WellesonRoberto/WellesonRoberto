@@ -5,9 +5,11 @@
 
  Sou um pernambucano sonhador, que recentemente entrou no mundo da programação e estou me aperfeiçoando cada vez mais nessa área. Estou buscando minha primeira experiência como programador.
 
-- 🌱 Estudando e aprimorando minhas habilidades em Javascript, React Native e outras tecnologias.
+- 🌱 Atualmente estou estudando e construindo habilidades nas ferramentas e tecnologias que possam agregar na minha carreira como Javascript, React Native e outras tecnologias.
 
 - 🚀 Aluno na OneBitCode
+
+- 😊 Destaco-me pela minha vontade de aprender e pela minha resilência. Sou bastante comunicativo, proativo e autodisciplinado.
 
 - 📫 Meu e-mail: wellesonroberto@hotmail.com
 
