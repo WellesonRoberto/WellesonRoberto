@@ -5,7 +5,7 @@
 
  Sou um pernambucano sonhador, que recentemente entrou no mundo da programação e estou me aperfeiçoando cada vez mais nessa área. Estou buscando minha primeira experiência como programador.
 
-- 🌱 Atualmente estou estudando e construindo habilidades nas ferramentas e tecnologias que possam agregar na minha carreira como Javascript, React Native e outras tecnologias.
+- 🌱 Atualmente estou estudando e construindo habilidades nas ferramentas e tecnologias que possam agregar na minha carreira como HTMLL, CSS, Javascript, React,js e outras tecnologias.
 
 - 🚀 Aluno na OneBitCode
 
