@@ -3,13 +3,13 @@
 
 > 🙋‍♂️ Sobre mim:
 
- Sou um pernambucano sonhador, que recentemente entrou no mundo da programação e estou me aperfeiçoando cada vez mais nessa área. Estou buscando minha primeira experiência como programador.
+ Sou um pernambucano sonhador, que recentemente entrou no mundo da programação e estou me aperfeiçoando cada vez mais nessa área. Estou buscando minha primeira experiência como Analista de dados.
 
-- 🌱 Atualmente estou estudando e construindo habilidades nas ferramentas e tecnologias que possam agregar na minha carreira como HTMLL, CSS, Javascript, React,js, Python, SQL e outras tecnologias.
+- 🌱 Atualmente estou estudando e construindo habilidades nas ferramentas e tecnologias que possam agregar na minha carreira como : Python, SQL server, DBeaver, Big Data, APIs e coleta de dados, Extract, Transform e Load (ETL) e ingestão de dados entre outras habilidades.
 
-- 🚀 Aluno na OneBitCode e do CesarSchool
+- 🚀 Aluno do CesarSchool
 
-- 😊 Destaco-me pela minha vontade de aprender e pela minha resilência. Sou bastante comunicativo, proativo e autodisciplinado.
+- 😊 Destaco-me pela minha vontade de aprender. pela minha inteligênci emocional e pela minha resilência. Sou bastante comunicativo, proativo e autodisciplinado.
 
 - 📫 Meu e-mail: wellesonroberto@hotmail.com
 
