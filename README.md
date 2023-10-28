@@ -38,15 +38,12 @@
   <code><img height="30" alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></code>
   <code><img height="30" alt="GitHub" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></code>
   <code><img height="30" alt="JavaScript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></code>
-  <code><img height="30" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
   <code><img height="30" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img height="30" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
   <code><img height="30" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img height="30" alt="Bootstrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></code>
   <code><img height="30" alt="Node" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"></code>
   <code><img height="30" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
   <code><img height="30" alt="MySQL" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"></code>
-  <code><img height="30" alt="Java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></code>
 </div>
 
 <br>
